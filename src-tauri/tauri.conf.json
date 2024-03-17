@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.nakamura0907.lms-tauri",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
